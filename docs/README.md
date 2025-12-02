@@ -70,4 +70,3 @@ This project emphasizes **responsible AI practices**:
 ## 👤 Author
 **Mohit Tiwary**  
 B.Tech in Computer Science & Engineering, Sikkim Manipal Institute of Technology  
-Passionate about fairness, responsible AI, and recruiter‑ready data science projects.
