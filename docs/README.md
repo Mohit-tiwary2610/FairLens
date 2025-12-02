@@ -19,7 +19,7 @@ It highlights fairness metrics such as **Demographic Parity Difference** and **E
 ### 1. Baseline vs Mitigated Metrics
 Compares accuracy, DP difference, and EO difference before and after mitigation.
 
-![Baseline vs Mitigated Metrics](results/baseline_vs_mitigated_metrics.png)
+![Baseline vs Mitigated Metrics](docs/results/baseline_vs_mitigated_metrics.png)
 
 ---
 
@@ -27,7 +27,7 @@ Compares accuracy, DP difference, and EO difference before and after mitigation.
 Shows how often male vs female groups are predicted as positive (income > 50K).  
 Mitigation reduces disparity between groups.
 
-![Selection Rate by Sex](results/fairness_sex.png)
+![Selection Rate by Sex](docs/results/fairness_sex.png)
 
 ---
 
@@ -35,7 +35,7 @@ Mitigation reduces disparity between groups.
 Shows selection rates across racial groups.  
 Mitigation improves fairness across multiple sensitive categories.
 
-![Selection Rate by Race](results/fairness_race.png)
+![Selection Rate by Race](docs/results/fairness_race.png)
 
 
 ---
@@ -43,7 +43,7 @@ Mitigation improves fairness across multiple sensitive categories.
 ### 4. SHAP Summary Plot (Model Explainability)
 Reveals which features most influence the model’s predictions and how their values affect outcomes.
 
-![SHAP Summary Plot](results/shap_summary.png)
+![SHAP Summary Plot](docs/results/shap_summary.png)
 
 ---
 
