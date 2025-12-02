@@ -19,7 +19,7 @@ It highlights fairness metrics such as **Demographic Parity Difference** and **E
 ### 1. Baseline vs Mitigated Metrics
 Compares accuracy, DP difference, and EO difference before and after mitigation.
 
-![Baseline vs Mitigated Metrics](results/baseline_vs_mitigated_metrics.png)
+![baseline vs mitigated metrics](results/baseline_vs_mitigated_metrics.png)
 
 ---
 
