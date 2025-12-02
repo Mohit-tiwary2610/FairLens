@@ -37,6 +37,7 @@ Mitigation improves fairness across multiple sensitive categories.
 
 ![Selection Rate by Race](results/fairness_race.png)
 
+
 ---
 
 ### 4. SHAP Summary Plot (Model Explainability)
